@@ -1,0 +1,10 @@
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\bin\Debug\Inverso de un numero.exe.config
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\bin\Debug\Inverso de un numero.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\bin\Debug\Inverso de un numero.pdb
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\bin\Debug\Inverso de un numero.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\obj\Debug\Inverso_de_un_numero.Form1.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\obj\Debug\Inverso_de_un_numero.Resources.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\obj\Debug\Inverso de un numero.vbproj.GenerateResource.Cache
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\obj\Debug\Inverso de un numero.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\obj\Debug\Inverso de un numero.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Inverso de un numero\obj\Debug\Inverso de un numero.pdb

@@ -1,0 +1,10 @@
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\bin\Debug\Determinar cuantos digitos tiene un numero.exe.config
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\obj\Debug\Determinar_cuantos_digitos_tiene_un_numero.Form1.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\obj\Debug\Determinar_cuantos_digitos_tiene_un_numero.Resources.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\obj\Debug\Determinar cuantos digitos tiene un numero.vbproj.GenerateResource.Cache
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\bin\Debug\Determinar cuantos digitos tiene un numero.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\bin\Debug\Determinar cuantos digitos tiene un numero.pdb
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\bin\Debug\Determinar cuantos digitos tiene un numero.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\obj\Debug\Determinar cuantos digitos tiene un numero.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\obj\Debug\Determinar cuantos digitos tiene un numero.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Determinar cuantos digitos tiene un numero\obj\Debug\Determinar cuantos digitos tiene un numero.pdb

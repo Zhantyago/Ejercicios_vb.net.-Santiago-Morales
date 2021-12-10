@@ -1,0 +1,10 @@
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\bin\Debug\Convertidor Celsius a Farenheit.exe.config
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\obj\Debug\Convertidor_Celsius_a_Farenheit.Form1.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\obj\Debug\Convertidor_Celsius_a_Farenheit.Resources.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\obj\Debug\Convertidor Celsius a Farenheit.vbproj.GenerateResource.Cache
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\bin\Debug\Convertidor Celsius a Farenheit.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\bin\Debug\Convertidor Celsius a Farenheit.pdb
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\bin\Debug\Convertidor Celsius a Farenheit.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\obj\Debug\Convertidor Celsius a Farenheit.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\obj\Debug\Convertidor Celsius a Farenheit.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Convertidor Celsius a Farenheit\obj\Debug\Convertidor Celsius a Farenheit.pdb
