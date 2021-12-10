@@ -1,0 +1,10 @@
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\bin\Debug\Porcentaje.exe.config
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\bin\Debug\Porcentaje.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\bin\Debug\Porcentaje.pdb
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\bin\Debug\Porcentaje.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\obj\Debug\Porcentaje.Form1.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\obj\Debug\Porcentaje.Resources.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\obj\Debug\Porcentaje.vbproj.GenerateResource.Cache
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\obj\Debug\Porcentaje.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\obj\Debug\Porcentaje.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Porcentaje\obj\Debug\Porcentaje.pdb
