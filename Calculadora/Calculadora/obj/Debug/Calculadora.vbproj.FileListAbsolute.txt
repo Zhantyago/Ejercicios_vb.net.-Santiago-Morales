@@ -1,0 +1,10 @@
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.Resources.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.pdb

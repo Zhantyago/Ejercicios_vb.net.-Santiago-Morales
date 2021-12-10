@@ -1,0 +1,10 @@
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\bin\Debug\Calculadora de Edad por Fecha de nacimiento.exe.config
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\bin\Debug\Calculadora de Edad por Fecha de nacimiento.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\bin\Debug\Calculadora de Edad por Fecha de nacimiento.pdb
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\bin\Debug\Calculadora de Edad por Fecha de nacimiento.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\obj\Debug\Calculadora_de_Edad_por_Fecha_de_nacimiento.Form1.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\obj\Debug\Calculadora_de_Edad_por_Fecha_de_nacimiento.Resources.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\obj\Debug\Calculadora de Edad por Fecha de nacimiento.vbproj.GenerateResource.Cache
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\obj\Debug\Calculadora de Edad por Fecha de nacimiento.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\obj\Debug\Calculadora de Edad por Fecha de nacimiento.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Calculadora de Edad por Fecha de nacimiento\obj\Debug\Calculadora de Edad por Fecha de nacimiento.pdb

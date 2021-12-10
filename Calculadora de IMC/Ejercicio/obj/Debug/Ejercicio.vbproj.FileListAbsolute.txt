@@ -1,0 +1,10 @@
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\obj\Debug\Ejercicio.Form1.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\obj\Debug\Ejercicio.Resources.resources
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\obj\Debug\Ejercicio.vbproj.GenerateResource.Cache
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\bin\Debug\Ejercicio.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\obj\Debug\Ejercicio.xml
+C:\Users\Zhantyago\AppData\Local\Temporary Projects\Ejercicio\obj\Debug\Ejercicio.pdb
